@@ -1,0 +1,64 @@
+{
+  "books": [
+    {
+      "name": "Dune",
+      "author": "Frank Herbert",
+      "year": 1965,
+      "summary": "A science fiction novel set in the distant future where interstellar travel is commonplace and noble houses vie for control of the desert planet Arrakis, the only known source of the spice melange."
+    },
+    {
+      "name": "Neuromancer",
+      "author": "William Gibson",
+      "year": 1984,
+      "summary": "A seminal work of the cyberpunk genre, Neuromancer follows a washed-up computer hacker hired by a mysterious employer to pull off the ultimate hack."
+    },
+    {
+      "name": "Foundation",
+      "author": "Isaac Asimov",
+      "year": 1951,
+      "summary": "The first book in the Foundation series, it explores the collapse and rebirth of a vast interstellar empire through the lens of psychohistory, a fictional science that predicts the behavior of large populations."
+    },
+    {
+      "name": "Snow Crash",
+      "author": "Neal Stephenson",
+      "year": 1992,
+      "summary": "Set in a near-future where virtual reality and the internet dominate society, Snow Crash follows a hacker and a pizza delivery driver as they uncover a conspiracy that threatens to unleash a linguistic virus."
+    },
+    {
+      "name": "The Left Hand of Darkness",
+      "author": "Ursula K. Le Guin",
+      "year": 1969,
+      "summary": "Part of the Hainish Cycle, this novel explores themes of gender and sexuality on a planet where its inhabitants are androgynous most of the time, only taking on specific gender characteristics during mating periods."
+    },
+    {
+      "name": "Hyperion",
+      "author": "Dan Simmons",
+      "year": 1989,
+      "summary": "The first book in the Hyperion Cantos series, it follows a group of pilgrims as they travel to the mysterious Time Tombs on the planet Hyperion, each sharing their stories along the way."
+    },
+    {
+      "name": "Ender's Game",
+      "author": "Orson Scott Card",
+      "year": 1985,
+      "summary": "Set in a future where humanity is at war with an alien species, Ender's Game tells the story of Ender Wiggin, a young boy who is trained to become a military genius in order to lead the fight against the aliens."
+    },
+    {
+      "name": "1984",
+      "author": "George Orwell",
+      "year": 1949,
+      "summary": "A dystopian novel set in a totalitarian society where individuality and independent thought are suppressed, following the story of Winston Smith as he rebels against the oppressive regime."
+    },
+    {
+      "name": "Brave New World",
+      "author": "Aldous Huxley",
+      "year": 1932,
+      "summary": "Set in a futuristic society where people are genetically engineered and conditioned to be content, Brave New World explores themes of individuality, conformity, and the dangers of a utopian society."
+    },
+    {
+      "name": "The Hitchhiker's Guide to the Galaxy",
+      "author": "Douglas Adams",
+      "year": 1979,
+      "summary": "A comedic science fiction series that follows the misadventures of an ordinary human named Arthur Dent as he travels through space with an alien friend after Earth is unexpectedly destroyed."
+    }
+  ]
+}

@@ -6,6 +6,9 @@ export default {
   ],
   theme: {
     extend: {},
+    minWidth: {
+      'input': '327px',
+    }
   },
   plugins: [],
 }
